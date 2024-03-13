@@ -18,9 +18,7 @@
 ##            If not passed, maintains the SO_HIDE_COLOURS setting
 ###############################################################################
 
-SO_HIDE_DEBUG=1                   ## Uncomment this line to hide all @DEBUG statements
-SO_HIDE_COLOURS=1                 ## Uncomment this line to disable all escape colouring
-. /home/so/utils/bin/so_define_colours.sh "$@"
+. ./so_define_colours.sh "$@"
 
 ###############################################################################
 ## Escreve uma mensagem de DEBUG apenas se SO_HIDE_DEBUG não estiver definida.

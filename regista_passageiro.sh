@@ -1,6 +1,4 @@
 #!/bin/bash
-SO_HIDE_DEBUG=1   ## Uncomment this line to hide all @DEBUG statements
-SO_HIDE_COLOURS=1 ## Uncomment this line to disable all escape colouring
 . ./so_utils.sh   ## This is required to activate the macros so_success, so_error, and so_debug
 
 ###############################################################################
