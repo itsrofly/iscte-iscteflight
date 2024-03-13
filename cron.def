@@ -1,0 +1,24 @@
+###############################################################################
+## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2023/2024, Enunciado Versão 3+
+##
+## Aluno: Nº: 124171      Nome: Rofly Antonio
+## Nome do Módulo: S3.3.1. cron.def
+## Descrição/Explicação do Módulo:
+##
+## "@hourly" is a keyword equivalent to: 0 * * * *
+## "0" Minute in which the task will be executed, in this case it is 0.
+## "*" Hour in which the task will be executed.
+## "*" Days of the month when the task will be executed. 
+## "*" Months in which the task will be executed.
+## "*" Days of the week when the task will be run.
+## "cd ~/parte-1 && ./estado_voos.sh" First enter the project folder and only then execute the file | Attention: Folder address - /home/$user/parte-1
+##
+## Explicação de quais os comandos a usar para configurar o seu sistema Linux
+## usando este ficheiro:
+## 
+## Execute this command to add the configuration: crontab ./cron.def | Warning: Any configuration previously made on this user will be removed!
+## Add this configuration manually using the following command: crontab -e
+##
+###############################################################################
+
+@hourly cd ~/parte-1 && ./estado_voos.sh
