@@ -9,4 +9,4 @@
 
 ## About
 The aim is to develop a flight system using shell script
-* [Statement](https://github.com/rrofly/iscte-iscteflight/blob/main/Statement.pdf)
+* [Parte 1 - Statement](https://github.com/rrofly/iscte-iscteflight/blob/main/parte-1/Statement.pdf)
