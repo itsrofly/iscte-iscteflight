@@ -10,3 +10,5 @@
 ## About
 The aim is to develop a flight system using shell script && C
 * [Parte 1 - Statement](https://github.com/itsrofly/iscte-iscteflight/blob/main/parte-1/Statement.pdf)
+* [Parte 2 - Statement](https://github.com/itsrofly/iscte-iscteflight/blob/main/parte-2/Statement.pdf)
+* [Parte 3 - Statement](https://github.com/itsrofly/iscte-iscteflight/blob/main/parte-3/Statement.pdf)
