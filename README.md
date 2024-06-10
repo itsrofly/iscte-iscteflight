@@ -8,5 +8,5 @@
 </p>
 
 ## About
-The aim is to develop a flight system using shell script
-* [Parte 1 - Statement](https://github.com/rrofly/iscte-iscteflight/blob/main/parte-1/Statement.pdf)
+The aim is to develop a flight system using shell script && C
+* [Parte 1 - Statement](https://github.com/itsrofly/iscte-iscteflight/blob/main/parte-1/Statement.pdf)
